@@ -1,0 +1,1 @@
+Prosta aplikacja służąca do wykonywania podstawowcyh działań matematycznych.
