@@ -1,0 +1,52 @@
+= Simple Calculator
+:author: Jakub Łukasik
+:email:
+:revdate: 2026-05-08
+:revnumber: 1.0
+:lang: pl
+:toc: left
+:toc-title: Spis treści
+:icons: font
+
+== Opis projektu
+
+*Simple Calculator* to prosta aplikacja kalkulatora napisana w języku **Java**.
+Projekt powstał w celach edukacyjnych — nauka podstaw programowania w Javie oraz pracy z systemem kontroli wersji Git.
+
+== Technologie
+
+* Java
+* IntelliJ IDEA
+* Git / GitHub
+
+== Wymagania
+
+Aby uruchomić projekt, potrzebujesz:
+
+* Java JDK 11 lub nowszy
+* IntelliJ IDEA (lub inne IDE wspierające Javę)
+
+== Jak uruchomić
+
+. Sklonuj repozytorium:
++
+[source,bash]
+----
+git clone https://github.com/jakublukasikdev/simple-Calculator.git
+----
+
+. Otwórz projekt w IntelliJ IDEA:
+** `File` → `Open` → wybierz folder projektu
+
+. Uruchom klasę główną z katalogu `src/`
+
+== Funkcjonalności
+
+* [x] Dodawanie
+* [x] Odejmowanie
+* [x] Mnożenie
+* [x] Dzielenie
+
+== Autor
+
+Jakub Łukasik — link:https://github.com/jakublukasikdev[github.com/jakublukasikdev]
